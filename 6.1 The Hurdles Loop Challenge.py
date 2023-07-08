@@ -1,4 +1,4 @@
-# Program for Reeborg's world to make a square
+# Program for Reeborg's world to make a square 
 
 def turn_right() :
     turn_left()
